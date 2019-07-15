@@ -1,2 +1,0 @@
-# Hello-Worled
-MyedX Course
